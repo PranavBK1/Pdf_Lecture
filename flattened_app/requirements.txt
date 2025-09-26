@@ -1,0 +1,9 @@
+# requirements.txt for flattened_app
+streamlit
+moviepy
+python-pptx
+Pillow
+gtts
+pyttsx3
+transformers
+PyMuPDF
